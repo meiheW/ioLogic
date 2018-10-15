@@ -3,6 +3,7 @@
     <h1>
     	ioLogic
     </h1>
+	<img src="iologic.jpg" width="150px">
 </div>
 
 
