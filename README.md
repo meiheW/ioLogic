@@ -7,7 +7,7 @@
 </div>
 
 ## About
-
+基于C语言的iologic硬件模块I/O控制，硬件模块用户手册见Manuals，参数修改工具见Tools.
 
 ## 关于代码
 ```
