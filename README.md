@@ -1,6 +1,6 @@
 iologic嵌入式系统编程I/O控制
 
-##关于代码：
+## 关于代码：
 ```
 	1.iologik默认ip为192.168.127.254，端口为502，
 		open_modbus_tcp_powermang用于建立连接，
@@ -15,7 +15,7 @@ iologic嵌入式系统编程I/O控制
 	6.makefile中用GCC编译，若在arm上运行，改为用arm-linux交叉编译
 ```
 
-##注意事项：
+## 注意事项：
 ```
 	1.iologik设置了访问权限，读取DI/DO状态必须通过ioAdmin工具进行设置，否则没有权限
 		具体操作：将板卡ip添加到Network->ip setting->Accessible ip列表中并保存
